@@ -14,5 +14,5 @@ services:
     ports:
       - 6881:6881
       - 6881:6881/udp
-      - 8080:8080
+      - 28080:28080
     restart: unless-stopped
